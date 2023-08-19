@@ -1,0 +1,23 @@
+<div style="text-align: center;">
+    <h1 id="title" style='font-size: 48px; font-family: "book antiqua", palatino; color: rgb(204, 125, 28);'>
+    ✷ kip ✷
+    </h1>
+    <h2 aria-describedby="title">
+    <span style="font-family: book antiqua,palatino; font-size: 12px; color: rgb(115, 115, 115);">
+        Daniel Johnston - Walking the Cow
+    </span>
+    <audio controls>
+        <source src="http://docs.google.com/uc?export=open&id=1ncrFjt_NezvIp3iweezmRacV_hMHSoPU">
+    </audio>
+    <p style="color: rgb(115, 115, 115); font-size: 14px;">
+        <em>I really don't know how I came here,<br>I really don't know why I'm stayin' here</em>
+    </p>
+    <p style="font-size: 30px; color: rgb(204, 125, 28);">✶</p>
+    </h2>
+    <div>
+    <p aria-label="Quote: Alien cow can be drawn in either palette" style="font-family: book antiqua,palatino; color: rgb(115, 115, 115); font-size: 14px;">
+        <strong>Alien Cow<br>Can be drawn in either palette</strong>
+    </p>
+    </div>
+</div>
+<hr/>
